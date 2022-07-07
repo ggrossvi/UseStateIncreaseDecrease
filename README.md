@@ -1,2 +1,2 @@
-# UseStateIncreaseDecrease
+# UseState
 Created with CodeSandbox
